@@ -1,4 +1,4 @@
-# lang-en_US
+# lang-ro_RO
 
 ### READ THIS WHEN YOU WANT TO MAKE TRANSLATIONS TO ANOTHER LANGUAGE
 
@@ -21,6 +21,7 @@ There are sixteen text files included in this repository, each with their own se
 - ca_settings      -- these are translations for the CA settings
 - javascript.ca.txt-- these are translations for the CA javascript
 
+There are also other folders for specific plugins that are enabled for multiple language translations.
 All file names are in lowercase and should be included in the repository to make the translations complete.
 
 Removing a particular file, means no translations will be available for that section and the GUI will display text in original English.
