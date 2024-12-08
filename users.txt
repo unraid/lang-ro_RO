@@ -1,3 +1,6 @@
+
+
+; Note: December 8, 2024 - 27 missing translations
 Add User=
 Add=
 Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
