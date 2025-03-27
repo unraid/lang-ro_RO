@@ -1,356 +1,475 @@
-A registration replacement key has been created for USB Flash GUID=
-About=
-Alert Message=
-alert=
-Alerts=
-All Categories=
-An email has been sent to=
-and=
-Anonymize diagnostics=
-Anytime=
-Archived Notifications=
-Are you sure=
-Array has been Reset=Array has been **Reset**
-Array must be Started to change permissions=Array must be **Started** to change permissions
-Array must be Stopped to change=Array must be **Stopped** to change
-Array slots=
-Array=
-Author=
-Beta=
-Blacklisted USB Flash GUID=
-Branch=
-By using this software, you agree with our=
-Cache slots=
-Cannot connect to key-server=
-Check for Updates=
-Clear Log=
+
+A registration replacement key has been created for USB Flash GUID=O cheie de înregistrare pentru înlocuit a fost creată pentru USB Flash cu GUID
+About=Despre
+alert=alertă
+An email has been sent to=Un email a fost trimis către
+and=și
+Anonymize diagnostics=Anonimizează diagnosticele
+Anytime=Oricând
+Archived Notifications=Notificări Arhivate
+Are you sure=Sunteți sigur?
+Array has been Reset=Array-ul a fost **Resetat**
+Array must be Started to change permissions=Array-ul trebuie să fie **Pornit** pentru a schimba permisiunile
+Array must be Stopped to change=Array-ul trebuie să fie **Oprit** pentru a schimba
+Array slots=Sloturi array
+Array=Array
+Author=Autor
+Beta=Beta
+Blacklisted USB Flash GUID=GUID al USB Flash în lista neagră
+Branch = Ramură
+By using this software, you agree with our = Prin utilizarea acestui software, sunteți de acord cu termenii noștri
+Cache slots = Sloturi de memorie cache
+Cannot connect to key-server = Nu se poate conecta la serverul de chei
+Check for Updates = Căutați actualizări
 click Install Key=click <i>Install Key</i>
 collecting diagnostic information this may take several minutes=collecting diagnostic information (this may take several minutes)
-Component=
-Creating Flash backup=
-Creation error=
-Credits=
-Data slots=
-Delete all notifications=
-Delete Modprobe config=
-Delete notification=
-Deprecated Only=
-Developer=
-Diagnostics=
-Disks=
-Display Settings=
-Downgrade OS=
-Downloading=
-Driver=
-Edit Modprobe config=
-End-User License Agreement=
-Enter URL of language pack XML file=
-Error accessing your physical USB Flash boot device=
-Error reporting level=
-Errors Only=
-EULA=
-Event=
-Expiration=
-Extend=
-extended=
-Flash backup=
-Get Trial Key=
-Hardware Profile=
-Hide Details=
-If you do not receive an email, please check your spam or junk-email folder=
-Importance=
-Important=
-Install Language=
-Install=
-Installed languages=
-Insufficient free disk space available=
+Component = Componentă
+Credits = Credite
+Data slots = Sloturi de date
+Delete all notifications = Șterge toate notificările
+Delete notification = Șterge notificarea
+Developer=Dezvoltator
+Diagnostics = Diagnosticare
+Disks = Discuri
+Display Settings = Setări de afișare
+Downloading = Descărcare
+End-User License Agreement = Acord de licență pentru utilizatorul final
+Enter URL of language pack XML file = Introduceți URL-ul fișierului XML al pachetului de limbi
+Error accessing your physical USB Flash boot device = Eroare la accesarea dispozitivului USB Flash de boot fizic
+EULA = Acord de licență pentru utilizatorul final
+Event = Eveniment
+Expiration = Expirare
+Extend = Extinde
+extended = extins
+Get Trial Key = Obțineți cheia de probă
+Hardware Profile = Profil hardware
+Hide Details = Ascunde detalii
+If you do not receive an email, please check your spam or junk-email folder = Dacă nu primiți un email, verificați dosarul de spam sau junk-email
+Importance = Importanță
+Important = Important
+Install Language = Instalează limba
+Install = Instalează
+Installed languages = Limbile instalate
 Invalid Trial Installation=Invalid *Trial* Installation
-It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=
-Key file URL=
-Language support added=
-Language support deleted=
-Language=
-Log file cleared=
-Log size=
-LOG size=
-Missing Key File=
-Missing Language=
-Modprobed config file=Modprobe.d config file
-Network Settings=
-New Config=
-New Permissions=
-Next=
-No filter=
-No notifications present=
-No personal information such as user names, passwords, or any other file contents is included in the hardware profile=No personal information such as user names, passwords, or any other file contents is included in the hardware profile
-normal=
-Notices Only=
-Notices=
-Only ZIP files are allowed=
-Page Map=
-Parity slots=
-PHP Info=
-PHP Information=
-PHP Log File=
-PHP Settings=
-Please check your=
-please configure=
-Please provide diagnostics when experiencing problems=
-Please select a language before proceeding=
-Please=
-Pool slots=
-Post these in the forums=
-Preserve current assignments=
-previous=
-Privacy Policy=
-Processes=
-Purchase Key=
-Rebuild Modules=
-Registered GUID=
-Registered on=
-Registered to=
-registering USB Flash GUID=
-Release has been withdrawn=
-Remove custom modprobed configuration=Remove custom modprobe.d configuration?
-Remove the installed language=
-Replaceable=
-Request Extension=
-Request Trial Extension=
-Restore=
-Save Modprobe config=
-See=
-Select language file=
-Select language=
-Select View=
-Show Details=
-Show errors on screen=
-slots=
-Stable=
-State=
-Subject=
-Support page=
-System Devices=
-System Drivers=
-System Update Check=
-Text=
-Thank you for choosing Unraid OS=
-Thank you for registering USB Flash GUID=
-Thank you for trying Unraid OS=
-The registered GUID does not match the USB Flash boot device GUID=
-There is a physical problem accessing your USB Flash boot device=
-this may take several minutes=
-This release has been withdrawn for use with Trial keys=This release has been withdrawn for use with *Trial* keys
-This server has %s attached storage device=
-This server has %s attached storage devices=
-This utility is used for troubleshooting purposes=
-This will delete all notification files=
-This will delete the selected notification files=
-This will update folder file permissions=This will update folder & file permissions
-Time=
-To install a registration key, paste the key file URL in the box below and click Install Key=To install a registration key, paste the key file URL in the box below and click **Install Key**
-to select your language=
-Trial key expires on=***Trial*** key expires on
-Trial=
-Update OS=
-Upgrade Key=
-Uploaded=
-uploading hardware information=
-Uploading=
-Use this to develop language packs=
-Use this to install official language packs=
-User Shares=
-User=
-Vars=
-VFIO-PCI Log=
-View Log=
-View VFIO-PCI Log=
-warning=
-Warnings Only=
-Warnings=
-webGUI=
-When received, please paste the URL into the Key file URL box and=When received, please paste the URL into the *Key file URL* box and
-Wrong File Extension=
-You havent sent Limetech your hardware profile yet=You haven't sent Limetech your hardware profile yet
-Your hardware profile was last submitted on=
-Your Trial key has expired=Your *Trial* key has expired
-Your Trial key requires an internet connection=Your *Trial* key requires an internet connection
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech = Va colecta toate informațiile hardware ale sistemului, va elimina orice numere de serie și le va încărca în siguranță către LimeTech
+Key file URL = URL-ul fișierului de cheie
+Language support added = Suport pentru limbă adăugat
+Language support deleted = Suport pentru limbă șters
+Language = Limbă
+Missing Key File = Fișierul de cheie lipsește
+Missing Language = Limbă lipsă
+Network Settings = Setări de rețea
+New Config = Configurație nouă
+New Permissions = Permisiuni noi
+Next = Următorul
+No notifications present = Nu există notificări
+No personal information such as user names, passwords, or any other file contents is included in the hardware profile = Nu sunt incluse informații personale precum nume de utilizator, parole sau alte conținuturi ale fișierelor în profilul hardware
+normal = normal
+Only ZIP files are allowed = Sunt permise doar fișiere ZIP
+Page Map = Harta paginii
+Parity slots = Sloturi de paritate
+Please check your = Vă rugăm să verificați
+please configure = Vă rugăm să configurați
+Please select a language before proceeding = Vă rugăm să selectați o limbă înainte de a continua
+Please = Vă rugăm
+Pool slots = Sloturi pool
+Preserve current assignments = Păstrați atribuțiile curente
+previous = anterior
+Privacy Policy = Politica de confidențialitate
+Processes = Procese
+Purchase Key = Achiziționează cheia
+Registered GUID = GUID înregistrat
+Registered on = Înregistrat pe
+Registered to = Înregistrat la
+registering USB Flash GUID = Înregistrarea GUID-ului USB Flash
+Release has been withdrawn = Lansarea a fost retrasă
+Remove the installed language = Șterge limba instalată
+Replaceable = Înlocuibil
+Request Extension = Solicită extensie
+Request Trial Extension = Solicită extensie pentru probă
+Restore = Restaurează
+See = Vezi
+Select language file = Selectează fișierul de limbă
+Select language = Selectează limba
+Show Details = Afișează detalii
+slots = sloturi
+Stable = Stabil
+Subject = Subiect
+System Devices = Dispozitivele sistemului
+System Update Check = Verificare actualizare sistem
+Text = Text
+Thank you for choosing Unraid OS = Mulțumim că ați ales Unraid OS
+Thank you for registering USB Flash GUID = Mulțumim pentru înregistrarea GUID-ului USB Flash
+Thank you for trying Unraid OS = Mulțumim că ați încercat Unraid OS
+The registered GUID does not match the USB Flash boot device GUID = GUID-ul înregistrat nu corespunde cu GUID-ul dispozitivului de boot USB Flash
+There is a physical problem accessing your USB Flash boot device = Există o problemă fizică la accesarea dispozitivului de boot USB Flash
+this may take several minutes = Acest lucru poate dura câteva minute
+his release has been withdrawn for use with Trial keys = Această versiune a fost retrasă pentru utilizarea cu *chei de probă*
+This server has %s attached storage device = Acest server are %s dispozitiv de stocare atașat
+This server has %s attached storage devices = Acest server are %s dispozitive de stocare atașate
+This utility is used for troubleshooting purposes = Această utilitar este folosit pentru scopuri de depanare
+This will delete all notification files = Aceasta va șterge toate fișierele de notificare
+This will update folder file permissions=Aceasta va actualiza permisiunile pentru foldere și fișiere
+Time=Time
+To install a registration key, paste the key file URL in the box below and click Install Key=Pentru a instala o cheie de înregistrare, lipiți URL-ul fișierului cheii în caseta de mai jos și faceți clic pe **Instalează Cheia**
+to select your language=pentru a selecta limba dumneavoastră
+Trial key expires on=Cheia ***Trial*** expiră pe
+Trial = Trial
+Update OS = Actualizează OS-ul
+Upgrade Key = Cheie de upgrade
+Uploaded = Încărcat
+uploading hardware information = încărcarea informațiilor hardware
+Uploading = Încărcare
+Use this to develop language packs = Folosește aceasta pentru a dezvolta pachete de limbă
+Use this to install official language packs = Folosește aceasta pentru a instala pachete de limbă oficiale
+User Shares = Acțiuni utilizator
+User = Utilizator
+Vars = Variabile
+VFIO-PCI Log = Jurnal VFIO-PCI
+View VFIO-PCI Log = Vizualizează jurnalul VFIO-PCI
+warning = avertisment
+webGUI = webGUI
+When received, please paste the URL into the Key file URL box and=Când o primiți, vă rugăm să lipiți URL-ul în caseta *URL fișier cheie* și
+Wrong File Extension=Extensie Fișier Greșită
+You havent sent Limetech your hardware profile yet=Nu ți-ai trimis încă profilul hardware către Limetech
+Your hardware profile was last submitted on=Profilul tău hardware a fost trimis ultima dată pe
+Your Trial key has expired=Cheia dumneavoastră *Trial* a expirat
+Your Trial key requires an internet connection=Cheia ta *Trial* necesită o conexiune la internet
+
+A registration replacement key has been created for USB Flash GUID=A fost creată o cheie de înregistrare de înlocuire pentru GUID-ul USB Flash
+About=Despre
+Alert Message=Mesaj de alertă
+alert=alertă
+Alerts=Alerte
+All Categories=Toate categoriile
+An email has been sent to=A fost trimis un email către
+and=și
+Anonymize diagnostics=Anonimizează datele de diagnostic
+Anytime=Oricând
+Archived Notifications=Notificări arhivate
+Are you sure=Ești sigur?
+Array has been Reset=Array a fost **Resetat**
+Array must be Started to change permissions=Array trebuie să fie **Pornit** pentru a modifica permisiunile
+Array must be Stopped to change=Array trebuie să fie **Oprit** pentru a face modificări
+Array slots=Sloturi array
+Array=Array
+Author=Autor
+Beta=Beta
+Blacklisted USB Flash GUID=GUID USB Flash pe lista neagră
+Branch=Ramură
+By using this software, you agree with our=Prin utilizarea acestui software, ești de acord cu
+Cache slots=Sloturi cache
+Cannot connect to key-server=Nu se poate conecta la serverul de chei
+Check for Updates=Verifică actualizări
+Clear Log=Șterge jurnalul
+click Install Key=apasă <i>Install Key</i>
+collecting diagnostic information this may take several minutes=se colectează informațiile de diagnostic (acest proces poate dura câteva minute)
+Component=Componentă
+Creating Flash backup=Se creează copia de rezervă Flash
+Creation error=Eroare la creare
+Credits=Credite
+Data slots=Sloturi de date
+Delete all notifications=Șterge toate notificările
+Delete Modprobe config=Șterge configurația Modprobe
+Delete notification=Șterge notificarea
+Deprecated Only=Doar cele învechite
+Developer=Dezvoltator
+Diagnostics=Diagnosticare
+Disks=Discuri
+Display Settings=Setări de afișare
+Downgrade OS=Downgrade OS
+Downloading=Se descarcă
+Driver=Driver
+Edit Modprobe config=Editează configurația Modprobe
+End-User License Agreement=Acord de licență pentru utilizator final
+Enter URL of language pack XML file=Introdu URL-ul fișierului XML al pachetului de limbă
+Error accessing your physical USB Flash boot device=Eroare la accesarea dispozitivului fizic USB Flash de boot
+Error reporting level=Nivel raportare erori
+Errors Only=Doar erori
+EULA=EULA
+Event=Eveniment
+Expiration=Expirare
+Extend=Prelungește
+extended=prelungit
+Flash backup=Copie de rezervă Flash
+Get Trial Key=Obține cheia Trial
+Hardware Profile=Profil hardware
+Hide Details=Ascunde detaliile
+If you do not receive an email, please check your spam or junk-email folder=Dacă nu primești un email, verifică folderul de spam sau junk
+Importance=Importanță
+Important=Important
+Install Language=Instalează limbaj
+Install=Instalează
+Installed languages=Limbaje instalate
+Insufficient free disk space available=Spațiu liber pe disc insuficient
+Invalid Trial Installation=Instalare *Trial* invalidă
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=Va colecta toate informațiile hardware ale sistemului, va elimina orice număr de serie și le va încărca în siguranță către LimeTech
+Key file URL=URL fișier cheie
+Language support added=Suport lingvistic adăugat
+Language support deleted=Suport lingvistic șters
+Language=Limbă
+Log file cleared=Fișierul jurnal a fost șters
+Log size=Dimensiune jurnal
+LOG size=Dimensiune LOG
+Missing Key File=Fișier cheie lipsă
+Missing Language=Limbă lipsă
+Modprobed config file=Fișier de configurare Modprobe.d
+Network Settings=Setări rețea
+New Config=Config nou
+New Permissions=Permisiuni noi
+Next=Următorul
+No filter=Fără filtru
+No notifications present=Nu există notificări
+No personal information such as user names, passwords, or any other file contents is included in the hardware profile=Nu sunt incluse informații personale precum nume de utilizator, parole sau conținuturi de fișiere în profilul hardware
+normal=normal
+Notices Only=Doar notificări
+Notices=Notificări
+Only ZIP files are allowed=Doar fișiere ZIP sunt permise
+Page Map=Hartă pagină
+Parity slots=Sloturi de paritate
+PHP Info=Informații PHP
+PHP Information=Informații PHP
+PHP Log File=Fișier jurnal PHP
+PHP Settings=Setări PHP
+Please check your=Te rugăm să verifici
+please configure=te rugăm să configurezi
+Please provide diagnostics when experiencing problems=Te rugăm să furnizezi diagnosticarea atunci când întâmpini probleme
+Please select a language before proceeding=Te rugăm să selectezi o limbă înainte de a continua
+Please=Te rugăm
+Pool slots=Sloturi pool
+Post these in the forums=Publică acestea pe forumuri
+Preserve current assignments=Păstrează alocările curente
+previous=anterior
+Privacy Policy=Politică de confidențialitate
+Processes=Procese
+Purchase Key=Cumpără cheie
+Rebuild Modules=Reconstruiește modulele
+Registered GUID=GUID înregistrat
+Registered on=Înregistrat la
+Registered to=Înregistrat pe numele
+registering USB Flash GUID=înregistrare GUID USB Flash
+Release has been withdrawn=Versiunea a fost retrasă
+Remove custom modprobed configuration=Elimină configurația personalizată modprobe.d?
+Remove the installed language=Elimină limba instalată
+Replaceable=Înlocuibil
+Request Extension=Solicită prelungire
+Request Trial Extension=Solicită prelungirea perioadei de probă
+Restore=Restaurează
+Save Modprobe config=Salvează configurația Modprobe
+See=Vezi
+Select language file=Selectează fișierul de limbă
+Select language=Selectează limba
+Select View=Selectează vizualizarea
+Show Details=Arată detalii
+Show errors on screen=Afișează erorile pe ecran
+slots=sloturi
+Stable=Stabil
+State=Stare
+Subject=Subiect
+Support page=Pagina de suport
+System Devices=Dispozitive sistem
+System Drivers=Drivere sistem
+System Update Check=Verificare actualizări sistem
+Text=Text
+Thank you for choosing Unraid OS=Îți mulțumim că ai ales Unraid OS
+Thank you for registering USB Flash GUID=Îți mulțumim că ai înregistrat GUID-ul USB Flash
+Thank you for trying Unraid OS=Îți mulțumim că încerci Unraid OS
+The registered GUID does not match the USB Flash boot device GUID=GUID-ul înregistrat nu corespunde cu GUID-ul dispozitivului USB Flash de boot
+There is a physical problem accessing your USB Flash boot device=Există o problemă fizică la accesarea dispozitivului USB Flash de boot
+this may take several minutes=acest proces poate dura câteva minute
+This release has been withdrawn for use with Trial keys=Această versiune a fost retrasă pentru utilizarea cu chei *Trial*
+This server has %s attached storage device=Acest server are %s dispozitiv de stocare atașat
+This server has %s attached storage devices=Acest server are %s dispozitive de stocare atașate
+This utility is used for troubleshooting purposes=Această unealtă este utilizată pentru depanare
+This will delete all notification files=Aceasta va șterge toate fișierele de notificare
+This will delete the selected notification files=Aceasta va șterge fișierele de notificare selectate
+This will update folder file permissions=Aceasta va actualiza permisiunile fișierelor și folderelor
+Time=Timp
+To install a registration key, paste the key file URL in the box below and click Install Key=Pentru a instala o cheie de înregistrare, lipește URL-ul fișierului în căsuța de mai jos și apasă pe **Install Key**
+to select your language=pentru a selecta limba
+Trial key expires on=Cheia ***Trial*** expiră la
+Trial=Trial
+Update OS=Actualizează sistemul de operare
+Upgrade Key=Upgrade cheie
+Uploaded=Încărcat
+uploading hardware information=se încarcă informațiile hardware
+Uploading=Se încarcă
+Use this to develop language packs=Folosește această opțiune pentru a dezvolta pachete lingvistice
+Use this to install official language packs=Folosește această opțiune pentru a instala pachete lingvistice oficiale
+User Shares=Partajări utilizator
+User=Utilizator
+Vars=Variabile
+VFIO-PCI Log=Jurnal VFIO-PCI
+View Log=Vezi jurnalul
+View VFIO-PCI Log=Vezi jurnalul VFIO-PCI
+warning=avertisment
+Warnings Only=Doar avertismente
+Warnings=Avertismente
+webGUI=interfață web (webGUI)
+When received, please paste the URL into the Key file URL box and=După ce îl primești, lipește URL-ul în câmpul *Key file URL* și
+Wrong File Extension=Extensie de fișier greșită
+You havent sent Limetech your hardware profile yet=Nu ai trimis încă profilul tău hardware către Limetech
+Your hardware profile was last submitted on=Profilul tău hardware a fost trimis ultima dată la
+Your Trial key has expired=Cheia ta *Trial* a expirat
+Your Trial key requires an internet connection=Cheia ta *Trial* necesită o conexiune la internet
+
 
 ; Sysdevs text - added May 18, 2020
-A reboot is required to apply changes=
-ALERT=
-Bind selected to VFIO at Boot=
-CPU Thread Pairings=
-Changes saved=
-Function Level Reset FLR supported=Function Level Reset (FLR) supported
-In use by Unraid=
-Kernel driver in use vfio-pci=Kernel driver in use: vfio-pci
-No changes=
-PCI Devices and IOMMU Groups=
-PCI Devices No IOMMU Groups Available=PCI Devices (No IOMMU Groups Available)
-Reboot to take effect=
-SCSI Devices=
+A reboot is required to apply changes = Este necesar un reboot pentru a aplica modificările
+ALERT = ALERTĂ
+Bind selected to VFIO at Boot = Legătura selectată cu VFIO la pornire
+CPU Thread Pairings = Perechi de fire CPU
+Changes saved = Modificările au fost salvate
+Function Level Reset FLR supported = Resetarea la nivel de funcție (FLR) este susținută
+In use by Unraid = Folosit de Unraid
+Kernel driver in use: vfio-pci = Driverul kernel în uz: vfio-pci
+No changes = Nicio modificare
+PCI Devices and IOMMU Groups = Dispozitive PCI și grupuri IOMMU
+PCI Devices No IOMMU Groups Available=Dispozitive PCI (Nu sunt disponibile grupuri IOMMU)
+Reboot to take effect = Repornire pentru a aplica modificările
+SCSI Devices= Dispozitive SCSI
 The below list doesnt not reflect the way IOMMU would naturally group devices=The below list doesn't not reflect the way IOMMU would naturally group devices
-This controller is bound to vfio, connected USB devices are not visible=
-This controller is bound to vfio, connected drives are not visible=
-To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=To see natural IOMMU groups for your hardware, go to the [VM Manager] page and set the **PCIe ACS override** setting to **Disabled**
-USB Devices=
-Your system has booted with the PCIe ACS Override setting enabled=
+This controller is bound to vfio, connected USB devices are not visible=Acest controler este legat de vfio, dispozitivele USB conectate nu sunt vizibile
+This controller is bound to vfio, connected drives are not visible=Acest controler este legat de vfio, unitățile conectate nu sunt vizibile
+To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=Pentru a vedea grupurile naturale IOMMU pentru hardware-ul tău, mergi la pagina [VM Manager] și setează opțiunea **PCIe ACS override** pe **Disabled**.
+USB Devices=Dispozitive USB
+Your system has booted with the PCIe ACS Override setting enabled=Sistemul dvs. a pornit cu setarea PCIe ACS Override activată.
 
 :diagnostics_1_plug:
-This utility is used for troubleshooting purposes. It will collect all of the system information and configuration files, and package these files in a single ZIP file which can be saved locally.
-Subsequently, this file can be included in your correspondence with Limetech or the Unraid forum.
+Această utilitate este utilizată în scopuri de depanare. Va colecta toate informațiile despre sistem și fișierele de configurare, și va împacheta aceste fișiere într-un singur fișier ZIP care poate fi salvat local. Ulterior, acest fișier poate fi inclus în corespondența dvs. cu Limetech sau în forumul Unraid.
 
-This will help others to quickly get the inside information of your system and provide better support to your problem. The following information
-and configuration files are collected:
+Acest lucru va ajuta pe alții să obțină rapid informațiile relevante despre sistemul dvs. și să vă ofere o asistență mai bună pentru problema dvs. Următoarele informații și fișiere de configurare sunt colectate:
 :end
 
 :diagnostics_2_plug:
 + */config*
-  <br>copy all *\*.cfg files*, *go* file and the *super.dat* file. These are configuration files.
+  <br>copiază toate fișierele *\*.cfg*, fișierul *go* și fișierul *super.dat*. Acestea sunt fișiere de configurare.
 + */config/shares*
-  <br>copy all *\*.cfg* files. These are user share settings files.
-+ *Syslog file(s)*
-  <br>copy the current *syslog* file and any previous existing *syslog* files.
+  <br>copiază toate fișierele *\*.cfg*. Acestea sunt fișierele de setări ale partajărilor utilizatorului.
++ *Fișiere syslog*
+  <br>copiază fișierul *syslog* curent și orice fișiere *syslog* anterioare existente.
 + *System*
-  <br>save output of the following commands:
-  <br>lsscsi, lspci, lsusb, free, lsof, ps, ethtool & ifconfig.
-  <br>display of iommu groups.
-  <br>display of command line parameters (e.g. pcie acs override, pci stubbing, etc).
-  <br>save system variables.
-+ *SMART reports*
-  <br>save a SMART report of each individual disk present in your system.
+  <br>salvează rezultatele următoarelor comenzi:
+  <br>lsscsi, lspci, lsusb, free, lsof, ps, ethtool și ifconfig.
+  <br>afișează grupurile IOMMU.
+  <br>afișează parametrii liniei de comandă (de exemplu, override PCIe ACS, stubbing PCI, etc.).
+  <br>salvează variabilele de sistem.
++ *Rapoarte SMART*
+  <br>salvează un raport SMART pentru fiecare disc individual prezent în sistemul dvs.
 + *Docker*
-  <br>save files *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* and *vfio-pci*.
+  <br>salvează fișierele *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* și *vfio-pci*.
 :end
 
 :diagnostics_3_plug:
-Clicking **Download** will start the collection process and then instruct your browser to save the zip file locally.
+Apăsarea butonului **Descărcare** va porni procesul de colectare și apoi va instrui browser-ul să salveze fișierul zip local.
 
-*No personal information such as user names, passwords, or any other file contents not specified above is included
-by Unraid OS; however, your server name, IP address, and user share names* **will** *be included.*
+*Nici o informație personală precum nume de utilizator, parole sau orice alt conținut de fișier nespecificat mai sus nu este inclus de Unraid OS; totuși, numele serverului dvs., adresa IP și numele partajărilor utilizatorului* **vor** *fi incluse.*
 
-*Note that 3rd-party plugins **may** or may not store personal information in plugin-specific configuration files and/or output
-to the system log.*
+*Rețineți că modulele terțe parte **pot** sau nu pot stoca informații personale în fișiere de configurare specifice modulelor și/sau pot genera ieșiri în jurnalul sistemului.*
 
-*Use* **Anonymize diagnostics** *when publishing the diagnostics file in the public forum. In private communication with Limetech it is recommended to uncheck this setting and capture all information unaltered.*
+*Utilizați* **Anonimizați diagnosticul** *atunci când publicați fișierul de diagnostic în forumul public. În comunicarea privată cu Limetech se recomandă să debifați această setare și să capturați toate informațiile neschimbate.*
 :end
 
 :newconfig_plug:
-This is a utility to reset the array disk configuration so that all disks appear as "New" disks, as
-if it were a fresh new server.
+Aceasta este o unealtă pentru a reseta configurația discului din array, astfel încât toate discurile să apară ca discuri "Noi", ca și cum ar fi un server nou complet.
 
-This is useful when you have added or removed multiple drives and wish to rebuild parity based on
-the new configuration.
+Acest lucru este util atunci când ați adăugat sau eliminat mai multe unități și doriți să reconstruiți paritatea pe baza noii configurații.
 
-Use the *'Preserve current assignments'* selection to populate the desired disk slots ***after*** the array has been reset. By default **no** disk slots are populated.
+Utilizați opțiunea *'Păstrare alocări curente'* pentru a popula sloturile dorite ale discurilor ***după*** ce array-ul a fost resetat. În mod implicit, **nu** sunt populate sloturile discurilor.
 
-**DO NOT USE THIS UTILITY THINKING IT WILL REBUILD A FAILED DRIVE** - it will have the opposite
-effect of making it ***impossible*** to rebuild an existing failed drive - you have been warned!
+**NU UTILIZAȚI ACEASTĂ UNEALTĂ GÂNDINDU-VĂ CĂ VA RECONSTRUI UN DISC DEFECT** - va avea efectul opus, de a face ***imposibilă*** reconstruirea unui disc defect existent - ați fost avertizat!
 :end
 
 :newperms_1_plug:
-This is a mandatory one-time action to be taken after upgrading from a pre-5.0 Unraid server release to Unraid v5 or a later release.
-Select **ALL DISKS** when performing this one-time action.
+Aceasta este o acțiune obligatorie care trebuie efectuată o singură dată după o actualizare de la o versiune anterioară a serverului Unraid anterior versiunii 5.0 la Unraid v5 sau o versiune ulterioară.
+Selectați **TOATE DISCURILE** când efectuați această acțiune o singură dată.
 
-This utility is also useful for restoring default ownership/permissions on files and
-directories when transitioning back from Active Directory to non-Active Directory integration.
+Această utilitate este utilă și pentru restaurarea proprietăților/permisiunilor implicite ale fișierelor și directoriilor în timpul tranziției de la integrarea cu Active Directory la integrarea non-Active Directory.
 
-The utility starts a background process that goes to each of your data disks and cache disks and selected user shares
-and changes file and directory ownership to *nobody/users* (i.e., uid/gid to 99/100), and sets permissions
-as follows:
+Utilitarul pornește un proces în fundal care accesează fiecare disc de date, disc cache și partajările de utilizator selectate și schimbă proprietatea fișierelor și directoriilor la *nobody/users* (adică uid/gid la 99/100) și setează permisiuni după cum urmează:
 :end
 
 :newperms_2_plug:
-For directories:
+Pentru directoare:
   drwxrwxrwx
 
-For read/write files:
+Pentru fișiere cu permisiuni de citire/scriere:
   -rw-rw-rw-
 
-For readonly files:
+Pentru fișiere cu permisiuni doar de citire:
   -r--r--r--
 :end
 
 :newperms_3_plug:
-Clicking **Start** will open another window and start the background process.
+Apăsând **Start** se va deschide o altă fereastră și se va porni procesul în fundal.
 
-Closing the window before completion will terminate the background process - so don't do that. This process can take a long time if you have many files.
+Închiderea ferestrei înainte de finalizare va întrerupe procesul în fundal - deci nu faceți asta. Acest proces poate dura mult timp dacă aveți multe fișiere.
 
-Note that this tool may negatively affect any docker containers if you allow your appdata share to be included.
+Rețineți că această unealtă poate afecta în mod negativ orice containere Docker dacă permiteți includerea partajării appdata.
 :end
 
 :registration_1_plug:
-Your server will not be usable until you purchase a Registration key or install a free 30-day *Trial* key. A *Trial*
-key provides all the functionality of a *Pro* Registration key.
+Serverul dumneavoastră nu va fi utilizabil până când nu achiziționați o cheie de înregistrare sau nu instalați o cheie de încercare gratuită valabilă 30 de zile. O cheie de încercare oferă toate funcționalitățile unei chei de înregistrare profesionale.
 
-Registration keys are bound to your USB Flash boot device serial number (GUID).  Please use a high quality name brand device
-at least 1GB in size.
+Cheile de înregistrare sunt legate de numărul de serie (GUID) al dispozitivului dvs. de boot Flash USB. Vă rugăm să utilizați un dispozitiv de marcă de calitate superioară, cu o capacitate de cel puțin 1 GB.
 
-Note: USB memory card readers are generally **not** supported because most do not present unique serial numbers.
+Notă: Cititoarele de carduri de memorie USB nu sunt în general suportate deoarece majoritatea nu prezintă numere de serie unice.
 :end
 
 :registration_2_plug:
-+ Please make sure your [server time](DateTime) is accurate to within 5 minutes.
-+ Please make sure there is a [DNS server](NetworkSettings) specified.
++ Vă rugăm să vă asigurați că ora serverului [server time](DateTime) este precisă în intervalul de 5 minute.
++ Vă rugăm să vă asigurați că este specificat un [server DNS](NetworkSettings).
 :end
 
 :registration_3_plug:
-Your *Trial* key includes all the functionality and device support of a *Pro* Registration key.
+Cheia dvs. de *Trial* include toate funcționalitățile și suportul pentru dispozitive ale unei chei de înregistrare *Pro*.
 
-After your *Trial* key has reached expiration, your server **still functions normally** until the next time you **Stop** the array.
+După ce cheia dvs. de *Trial* a expirat, serverul dvs. **funcționează în continuare normal** până în momentul în care opriți următoarea dată ansamblul (**Stop**).
 
-At that point, you may either purchase a Registration key, or request a *Trial* extension.
+La acel moment, puteți achiziționa o cheie de înregistrare sau puteți solicita o extensie a perioadei de *Trial*.
 :end
 
 :registration_4_plug:
-To continue using Unraid OS you may purchase a Registration key. Alternately, you may request a *Trial* extension key.
+Pentru a continua utilizarea Unraid OS, puteți achiziționa o cheie de înregistrare. În mod alternativ, puteți solicita o cheie de extindere *Trial*.
 
-Most *Trial* extension requests are processed immediately but please allow up to one business day to receive your *Trial* extension key.
+Cele mai multe solicitări de extindere *Trial* sunt procesate imediat, dar vă rugăm să permiteți până la o zi lucrătoare pentru a primi cheia de extindere *Trial*.
 :end
 
 :registration_5_plug:
-It is not possible to use a *Trial* key with an existing Unraid OS installation.
+Nu este posibil să utilizați o cheie de *Trial* cu o instalare existentă a sistemului de operare Unraid.
 
-You may purchase a Registration key corresponding to this USB Flash device to continue using this installation.
+Puteți achiziționa o cheie de înregistrare corespunzătoare acestui dispozitiv USB Flash pentru a continua utilizarea acestei instalări.
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
+Pentru mai multe informații, vă rugăm să [Contactați Suportul](https://lime-technology.com/contact).
 :end
 
 :registration_6_plug:
-It appears that your Registration key file is corrupted or missing.  The key file should be located in the
-[config](/Registration/Browse?dir&#61;/boot/config) directory on your USB Flash boot device.
+Se pare că fișierul cheii de înregistrare este corupt sau lipsește. Fișierul cheii ar trebui să se afle în directorul [config](/Registration/Browse?dir=/boot/config) de pe dispozitivul de boot USB Flash.
 
-If you do not have a backup copy of your Registration key file, [Contact Support](https://lime-technology.com/contact).
+Dacă nu aveți o copie de rezervă a fișierului cheii de înregistrare, vă rugăm să [Contactați Suportul](https://lime-technology.com/contact).
 
-If this was a *Trial* installation, you may purchase a Registration key.
+Dacă aceasta a fost o instalare de *Trial*, puteți achiziționa o cheie de înregistrare.
 :end
 
 :registration_7_plug:
-*Trial* installations are only valid with the originally registered USB Flash device.
+Instalările *Trial* sunt valabile numai cu dispozitivul USB Flash înregistrat inițial.
 
-To continue using this installation with this USB Flash device, you may purchase a Registration key.
+Pentru a continua utilizarea acestei instalații cu acest dispozitiv USB Flash, puteți achiziționa o cheie de înregistrare.
 :end
 
 :registration_8_plug:
-The Registration key file does not correspond to the USB Flash boot device.
-Please copy the correct key file to the [config](/Registration/Browse?dir&#61;/boot/config) directory
-on your USB Flash boot device. If you do not have a backup copy of your key file, [Contact Support](https://lime-technology.com/contact).
+Fișierul Cheii de Înregistrare nu corespunde dispozitivului de boot USB Flash.
+Vă rugăm să copiați fișierul corect al cheii în directorul [config](/Registration/Browse?dir=/boot/config) de pe dispozitivul de boot USB Flash. Dacă nu aveți o copie de rezervă a fișierului cheii, vă rugăm să [Contactați Suportul](https://lime-technology.com/contact).
 
-If you want to replace your Registration key with a new key bound to this USB Flash device, click Fix Error below. An original key may be
-replaced anytime. Thereafter, a replacement key may be replaced again after one year has passed.  If you require
-another replacement key sooner, [Contact Support](https://lime-technology.com/contact).
-
-**Note:** Replacing a Registration key results in permanently *blacklisting* the previous USB Flash GUID.
+Dacă doriți să înlocuiți cheia de înregistrare cu o nouă cheie asociată acestui dispozitiv USB Flash, faceți clic pe "Rezolvați eroarea" mai jos. O cheie originală poate fi înlocuită în orice moment. Ulterior, o cheie de înlocuire poate fi înlocuită din nou după trecerea unui an. Dacă aveți nevoie de o altă cheie de înlocuire mai devreme, [Contactați Suportul](https://lime-technology.com/contact).
+**Notă:** Înlocuirea unei chei de înregistrare duce la *includerea permanentă pe lista neagră* a GUID-ului anterior al dispozitivului USB Flash.
 :end
 
 :registration_9_plug:
-This USB Flash boot device has been *blacklisted*. This can occur as a result of transfering your Registration key to
-a replacement USB Flash device, and you are currently booted from your old USB Flash device.
+Acest dispozitiv de boot USB Flash a fost inclus pe *lista neagră*. Aceasta poate apărea ca rezultat al transferului cheii de înregistrare pe un dispozitiv USB Flash de înlocuire și dacă sunteți în prezent pornit de pe vechiul dispozitiv USB Flash.
 
-A USB Flash device may also be *blacklisted* if there is no serial number, or if we discover the serial number
-is not unique (this is common with USB card readers).
+Un dispozitiv USB Flash poate fi, de asemenea, inclus pe *lista neagră* dacă nu are un număr de serie sau dacă descoperim că numărul de serie nu este unic (aceasta este o situație frecventă în cazul cititoarelor de carduri USB).
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
+Pentru mai multe informații, vă rugăm să [Contactați Suportul] (https://lime-technology.com/contact).
 :end
 
-; Note: December 8, 2024 - 194 missing translations
