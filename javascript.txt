@@ -71,3 +71,5 @@ Container Port=
 Container Variable=
 Container Label=
 Container Device=
+
+; Note: December 8, 2024 - 65 missing translations
