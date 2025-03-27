@@ -1,3 +1,6 @@
+
+
+; Note: December 8, 2024 - 5 missing translations
 A new version of %s is available=
 Docker=
 Language=
