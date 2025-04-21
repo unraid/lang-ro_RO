@@ -1,16 +1,3 @@
-Process=
-Kill Process=
-Process ID=
-Open Files=
-Files that may prevent shutdown=
-File Name and Path=
-An entry for bash means you have a terminal session open with the working directory on the array=
-If smbd is listed, it means that another computer has a samba share mounted=
-Files open by Samba usually wont prevent array shutdown=
-No open files=
-Kill=
-Command timed out=
-Cannot get list of open files=
 ;
 ; Help
 ;
@@ -20,3 +7,20 @@ Cannot get list of open files=
 >
 > Click on **Process**, **Process ID**, **Files That May Prevent Shutdown**, or **File Name and Path** to change the sort order.
 :end
+
+; Note: April 21, 2025 - 15 missing translations
+Enable Kill Button=
+Process=
+Kill Process=
+Kill this Process holding files open=
+Process ID=
+Open=
+May prevent shutdown=
+File Name and Path=
+An entry for bash means you have a terminal session open with the working directory on the array=
+If smbd is listed, it means that another computer has a samba share mounted=
+Files open by Samba usually wont prevent array shutdown=
+No open files=
+Kill=
+Command timed out=
+Cannot get list of open files=

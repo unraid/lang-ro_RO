@@ -1,6 +1,8 @@
 Add ISO File Share=
 Add Remote SMB=
 Add Root Share=
+All Unassigned Devices configurations will be updated=
+All disks will be refreshed using udev=
 An XFS, BTRFS, or ZFS disk partitioned in UD is compatible with the array disk partitioning and can be added to the array=
 Any data on this disk will be lost=
 Are you sure=
@@ -9,16 +11,19 @@ Back=
 Browse Disk Share=
 Browse ISO File Share=
 Browse Remote SMB=
+Check the syslog for details=
 Choose File System Format=
 Choose ISO File=
-Choose Server=
+Choose NFS Server=
+Choose SMB Server=
 Choose Share=
 Click on Icon to Choose Protocol=
 Change Disk Mount Point=
 Change ISO File Mount Point=
 Change Remote Share Mount Point=
 Change SMB=
-Changing the Mount Point will also change the disk label=
+Changing the Mount Point will also change the disk label on all disks and the pool name on a ZFS disk=
+Clear=
 Click to select ISO file=
 Click to view/hide partitions and mount points=
 Complete=
@@ -33,12 +38,17 @@ Domain=
 Edit Device Script=
 Edit ISO File Script=
 Edit Remote SMB=
+Encrypt CIFS Mount=
 Enter the Domain for the share if on a Domain=
 Enter the Password if the share is password protected=
 Enter the Username if the share is password protected=
 Enter the password to use for this disk=
+Enter the server name and it will be added to the local DNS names and will then resolve by name=
+Exclusive Share files will not be accessible in a Root Share=
 Execute Script as udev simulating a device being installed=
 Fail=
+failed to=
+Failed to get data to refresh page=
 file share for=
 File System Check=
 File System Scrub=
@@ -48,11 +58,14 @@ Free=
 from disk=
 Go to Settings->Global Share Settings and set Enable Disk Shares to Auto or Off=
 Historical=
-Historical Devices=
+Historical Unassigned Devices=
 Historical Device is=
 Identification=
+If SMB shares do not show, check your credentials=
+If the IP address of the server shows in the list after searching, your DNS server is not resolving the name=
 If this disk was pre-cleared, you will remove the pre-clear signature=
 If you add the disk to the array and the pre-clear signature is removed, Unraid will go through the lengthy process of clearing the disk again=
+Invalid Configuration - Remove and Re-add=
 is offline=
 ISO File is=
 ISO File Shares=
@@ -69,26 +82,35 @@ Next=
 NFS Mount Point=
 NFS or ISO File Shares configured=
 NFS Script=
-NFS Script Log=
 NFS Share=
 NFS Shares=
 No Remote SMB=
+No script file to execute=
 No Unassigned Disks available=
+Not Enabled=
 not installed=
 Note=
-offilne=
+offline=
+User Shares=
+User Shares without Pools=
 You must enable NFS in Settings->NFS to mount NFS shares=
 You must enable SMB in Settings->SMB to mount SMB shares=
 Open=
+Partition=
 Partition and Format Disk=
-Pass Thru=
+Passed=
+Passed Through=
 Password=
+Pool=
+Preclear=
 Read only=
 Reboot=
 Refresh Disks and Configuration=
 Remember your password It cannot be recovered=
-Remote Share is=
-Remote share mounts are dependent on a solid and reliable network connection and that is difficult to achieve=
+Remote Server is=
+Remote Shares=
+Remote Shares online status will be reset=
+Remote share mounts are dependent on a solid and reliable network connection and that can be difficult to achieve=
 Remove Device configuration=
 Remove ISO File Share=
 Remove Partition=
@@ -96,15 +118,20 @@ Remove Remote SMB=
 Remove partition=
 Running=
 Script=
+Script is already running=
 Search For Servers=
-Search for Servers, or enter the Server nameIP address manually=
+Script Log=
+Search for Servers, or enter the Server name or IP address manually=
 Search for Shares or enter the Share name manually=
 Searching=
-Select the Mount Point to Root Share=
+Select the Root Share=
 Serial Number Mount Point=Serial Number (Mount Point)
 Shares=
 Share Type=
 share for=
+Show/Hide Historical Unassigned Devices=
+Show/Hide SMB/NFS/ISO Shares=
+Show/Hide Unassiged Disk Devices=
 Simple=
 SMB Shares=
 Source=
@@ -115,30 +142,69 @@ Show SMB/NFS/ISO Shares=
 Show Disk Devices=
 This is a way to gather Unraid shares into one Root Share=
 This will remove the ISO file share for=
-This will remove the remote=
+This will remove the=
 This will remove the saved configuration of=
 This will remove the=
+Timeout: Failed to get unassigned devices information - check the syslog=
 to confirm=
 to format=
+Unassigned Devices Settings=
+Unassigned Disk Devices=
+Unassigned Disks=
 Unmount=
 Unmounting=
 Use caution when gathering shares into one Root Share=
 Used=
-User and Pool Shares=
 User Shares=
+User Shares without Pools=
+User Shares - allow access to User Shares, including Cache and Pool files=
+User Shares without Pools - allow access to User Shares, but the Root Share will not include Cache and Pool files=
 Username=
 View Device Script Log=
 View ISO File Script Log=
-View Remote SMB=
+View NFS Script Log=
+View SMB Script Log=
 WARNING=
 When you copy files between shares in the Root Share, the files may not end up on the expected disks=
 Working=
 You can also subject yourself to security issues like ransomware by exposing all your shares in one Root Share=
+You may need to enter credentials to list the shares=
 You must enable NFS in Settings->NFS to mount NFS shares=
 You must enable SMB in Settings->SMB to mount SMB shares=
 You must enable the Destructive Mode in UD Settings before you can Format this disk=
 You WILL have problems if you do=
-You will need to enter credentials to list the shares=
+ZFS Pool Name=
+ZFS Volume=
+
+:unassgned_devices_switches_plug:
+> Turn on the **Disks** switch to change the web page to show disk devices. Turn off the **Disks** switch to change the web page to hide disk devices.
+>
+> Turn on the **Shares** switch to change the web page to show shares. Turn off the **Shares** switch to change the web page to hide shares.
+>
+> Turn on the **Historical** switch to show Historical disk devices. Turn off **Historical** switch to switch back to not show Historical disk devices.
+>
+> Click on the <i class="fa fa-refresh"></i> icon to refresh disks and configuration.
+>
+> Click on the <i class="fa fa-gear"></i> icon to go to the UD Settings.
+>
+> You can spin a disk up or down by clicking on the disk ball <i class='fa fa-circle orb green-orb'></i>or <i class='fa fa-circle orb grey-orb'></i>indicator.  Applies to version 6.9 RC2 and later only.
+>
+> Click on the <i class="fa fa-gears"></i> icon to go to the Device Settings configuration.  This is where you configure a device script and certain device characteristics.
+> 
+> Click on the <i class="icon-nvme"></i> or <i class="fa fa-hdd-o"></i> icon to display syslog entries specific to this disk device.
+>
+> **Mount Point icons:**
+>
+> When the <i class='fa fa-pencil'></i> icon shows next to the mount point it indicates the mount point can be changed when the mount point is clicked.
+>
+> When the <i class='fa fa-external-link'></i> icon shows next to the mount point it indicates the clicking on the mount point will browse the files on that partition.
+>
+> Click on the <i class="fa fa-align-left"></i> icon to display the device script log.  This is the log specific to the device script.
+>
+> Click on the <i class="fa fa-check"></i> icon to perform a file system check.  BTRFS and ZFS file systems need to be mounted to do a file check.  The file check on BTRFS and ZFS file systems is a scrub.
+>
+> Click on the <i class="fa fa-flash"></i> icon to run your device script as if it was hot plugged.  This only applies to disk devices.
+:end
 
 :unassigned_devices_general_help_plug:
 > **Unassigned Devices is called UD for short.**
@@ -194,3 +260,5 @@ You will need to enter credentials to list the shares=
 >
 > Be careful using the /dev/sdX or devX designation because they can change after a reboot.  It's best to use the values passed into the UD script for sdX (DEVICE) and devX (UD_DEVICE).
 :end
+
+; Note: April 21, 2025 - 177 missing translations
