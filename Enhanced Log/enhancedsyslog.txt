@@ -1,7 +1,7 @@
 
 
 ; Note: April 21, 2025 - 4 missing translations
-Enhanced System Log=
-Minor Issues=
-File System=
-Drive Related=
+Enhanced System Log=Jurnal Sistem Îmbunătățit
+Minor Issues=Probleme minore
+File System=Sistem de fișiere
+Drive Related=Legat de unități

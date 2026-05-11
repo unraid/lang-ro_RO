@@ -1,17 +1,17 @@
 
 
 ; Note: April 21, 2025 - 14 missing translations
-Search for %s=
-DockerHub Search for %s=
-Are you sure you want to delete %s from the list of previously installed applications=
-Are you sure you want to uninstall %s=
-Are you sure you want to remove the private application %s by %s=
-Removing %s=
-Uninstalling %s=
-Install %s Selected Application=
-Install %s Selected Applications=
-Are you sure you want to install %s docker and %s plugin applications=
-Install Application=
-Install Applications=
-Something really wrong went on during %s=
-Are you sure you want to delete %s applications from the previously installed list=
+Search for %s=Caută %s
+DockerHub Search for %s=Căutare DockerHub pentru %s
+Are you sure you want to delete %s from the list of previously installed applications=Sunteți sigur că doriți să ștergeți %s din lista aplicațiilor instalate anterior
+Are you sure you want to uninstall %s=Sunteți sigur că doriți să dezinstalați %s
+Are you sure you want to remove the private application %s by %s=Sunteți sigur că doriți să eliminați aplicația privată %s de %s
+Removing %s=Se elimină %s
+Uninstalling %s=Se dezinstalează %s
+Install %s Selected Application=Instalează %s Aplicația Selectată
+Install %s Selected Applications=Instalează %s Aplicațiile Selectate
+Are you sure you want to install %s docker and %s plugin applications=Sunteți sigur că doriți să instalați aplicațiile %s docker și %s plugin
+Install Application=Instalează Aplicația
+Install Applications=Instalează Aplicațiile
+Something really wrong went on during %s=Ceva a mers foarte prost în timpul %s
+Are you sure you want to delete %s applications from the previously installed list=Sunteți sigur că doriți să ștergeți %s aplicații din lista instalată anterior

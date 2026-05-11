@@ -8,12 +8,12 @@
 :end
 
 ; Note: April 21, 2025 - 9 missing translations
-Halt=
-Host Address=
-Host=
-No active streams=
-Playtime=
-Stop stream=
-Stream=
-User Name=
-User=
+Halt=Oprește
+Host Address=Adresă Gazdă
+Host=Gazdă
+No active streams=Fără fluxuri active
+Playtime=Durată redare
+Stop stream=Oprește flux
+Stream=Flux
+User Name=Nume Utilizator
+User=Utilizator

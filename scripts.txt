@@ -1,8 +1,7 @@
 
-
 ; Note: December 8, 2024 - 5 missing translations
-A new version of %s is available=
-Docker=
-Language=
-Notice %s - Version update %s=Notice [%s] - Version update %s
-Plugin=
+A new version of %s is available=O nouă versiune de %s este disponibilă
+Docker=Docker
+Language=Limbă
+Notice %s - Version update %s=Notificare [%s] - Actualizare versiune %s
+Plugin=Plugin

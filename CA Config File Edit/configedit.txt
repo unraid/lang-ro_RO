@@ -1,15 +1,15 @@
 
 
 ; Note: April 21, 2025 - 12 missing translations
-Select File=
-Error reading file=
-No Backup File Found=
-Select a file to edit=
-note editing a binary file could have unintended consequences=
-No file selected=
-Backup File=
-Editing=
-Generally, it is not recommended to change the format=
-Credits=
-No Backup File Found=
-File Format=
+Select File=Selectează Fișier
+Error reading file=Eroare la citirea fișierului
+No Backup File Found=Niciun Fișier de Rezervă Găsit
+Select a file to edit=Selectează un fișier pentru editare
+note editing a binary file could have unintended consequences=notă: editarea unui fișier binar poate avea consecințe neintenționate
+No file selected=Niciun fișier selectat
+Backup File=Fișier de Rezervă
+Editing=Editare
+Generally, it is not recommended to change the format=În general, nu este recomandat să schimbați formatul
+Credits=Credite
+No Backup File Found=Niciun Fișier de Rezervă Găsit
+File Format=Format Fișier

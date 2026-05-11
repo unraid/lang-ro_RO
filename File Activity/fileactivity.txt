@@ -30,13 +30,13 @@
 :end
 
 ; Note: April 21, 2025 - 10 missing translations
-Display Events=
-File Activity=
-File Activity Monitoring=
-Start File Activity=
-Stop File Activity Monitoring=
-Clear the File Activity log=
-Refresh Page=
-Enable File Activity Monitoring=
-Enable for Unassigned Devices=
-Enable for Cache and Pool Disks=
+Display Events=Afișează evenimente
+File Activity=Activitate fișiere
+File Activity Monitoring=Monitorizare activitate fișiere
+Start File Activity=Pornește Activitate fișiere
+Stop File Activity Monitoring=Oprește Monitorizare activitate fișiere
+Clear the File Activity log=Golește jurnalul Activitate fișiere
+Refresh Page=Reîmprospătează pagină
+Enable File Activity Monitoring=Activează Monitorizare activitate fișiere
+Enable for Unassigned Devices=Activează pentru Dispozitive Nealocate
+Enable for Cache and Pool Disks=Activează pentru Discuri Cache și Pool

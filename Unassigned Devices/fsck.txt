@@ -1,13 +1,13 @@
 
 
 ; Note: April 21, 2025 - 10 missing translations
-Cannot determine file system on an encrypted disk=
-Dirty log detected=
-Executing file system check=
-Executing file system scrub=
-File system corruption detected=
-File system corruption fixed=
-Force Log Zeroing=
-No file system corruption detected=
-Note: While there is some risk, if it is not possible to first mount the filesystem to clear the log, zeroing it is the only option to try and repair the filesystem, and in most cases it results in little or no data loss=
-Run with Correct flag=
+Cannot determine file system on an encrypted disk=Nu se poate determina sistemul de fișiere pe un disc criptat
+Dirty log detected=Jurnal murdar detectat
+Executing file system check=Se execută verificarea sistemului de fișiere
+Executing file system scrub=Se execută curățarea (scrub) sistemului de fișiere
+File system corruption detected=Corupție sistem de fișiere detectată
+File system corruption fixed=Corupție sistem de fișiere reparată
+Force Log Zeroing=Forțează Zeroizare Jurnal
+No file system corruption detected=Nicio corupție sistem de fișiere detectată
+Note: While there is some risk, if it is not possible to first mount the filesystem to clear the log, zeroing it is the only option to try and repair the filesystem, and in most cases it results in little or no data loss=Notă: Deși există un anumit risc, dacă nu este posibilă montarea sistemului de fișiere pentru a curăța jurnalul, zeroizarea acestuia este singura opțiune pentru a încerca repararea sistemului de fișiere, și în majoritatea cazurilor rezultă în pierderi de date mici sau inexistente
+Run with Correct flag=Rulează cu indicator Corectare

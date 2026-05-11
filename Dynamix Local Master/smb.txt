@@ -18,9 +18,9 @@
 :end
 
 ; Note: April 21, 2025 - 6 missing translations
-Current elected master=
-is current local master browser=
-Local master=
-Monitor local master election=
-please wait, obtaining=
-Workgroup=
+Current elected master=Master ales curent
+is current local master browser=este master browser-ul local curent
+Local master=Master local
+Monitor local master election=Monitorizează alegerea master-ului local
+please wait, obtaining=vă rugăm așteptați, se obține
+Workgroup=Grup de lucru

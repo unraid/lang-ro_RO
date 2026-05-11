@@ -28,17 +28,17 @@
 :end
 
 ; Note: April 21, 2025 - 14 missing translations
-Array fan speed=
-Available drivers=
-Click DETECT=
-Detect=
-Load drivers=
-Mainboard temperature=
-No drivers detected=
-Not used=
-Perl must be installed to do automated driver detection=**Perl** must be installed to do automated driver detection
-Processor temperature=
-Rescan=
-Save=
-Sensors=
-Unload drivers=
+Array fan speed=Viteză ventilator Array
+Available drivers=Drivere disponibile
+Click DETECT=Faceți click pe DETECTEAZĂ
+Detect=Detectează
+Load drivers=Încarcă drivere
+Mainboard temperature=Temperatură placă de bază
+No drivers detected=Niciun driver detectat
+Not used=Neutilizat
+Perl must be installed to do automated driver detection=**Perl** trebuie să fie instalat pentru detectarea automată a driverelor
+Processor temperature=Temperatură procesor
+Rescan=Rescanează
+Save=Salvează
+Sensors=Senzori
+Unload drivers=Descarcă drivere

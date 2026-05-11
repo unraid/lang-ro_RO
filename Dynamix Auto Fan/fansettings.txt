@@ -1,13 +1,13 @@
 
 
 ; Note: April 21, 2025 - 10 missing translations
-Click DETECT=
-Detect=
-Exclude drives=
-Fan control function=
-High temperature threshold=
-Low temperature threshold=
-Minimum PWM value=
-PWM controller=
-PWM fan=
-Refresh interval=
+Click DETECT=Faceți click pe DETECTEAZĂ
+Detect=Detectează
+Exclude drives=Exclude unități
+Fan control function=Funcție control ventilator
+High temperature threshold=Prag temperatură ridicată
+Low temperature threshold=Prag temperatură scăzută
+Minimum PWM value=Valoare minimă PWM
+PWM controller=Controler PWM
+PWM fan=Ventilator PWM
+Refresh interval=Interval reîmprospătare

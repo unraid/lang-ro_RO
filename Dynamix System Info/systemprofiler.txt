@@ -1,8 +1,8 @@
 
 
 ; Note: April 21, 2025 - 5 missing translations
-Not available=
-P + Q algorithm=
-System Overview=
-Unraid server=
-Unraid system=
+Not available=Nu este disponibil
+P + Q algorithm=Algoritm P + Q
+System Overview=Prezentare generală sistem
+Unraid server=Server Unraid
+Unraid system=Sistem Unraid

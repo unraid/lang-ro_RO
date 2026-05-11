@@ -6,19 +6,19 @@
 :end
 
 ; Note: April 21, 2025 - 16 missing translations
-Hotplug USB=
-Running VMs=
-Attach=
-Attach the USB device to the selected VM=
-Detach=
-Refresh this page=
-Detach the USB device from the selected VM=
-Result=
-Result of attachdetach operation=
-Note=
-Some USB Devices require detaching and attaching multiple times to be properly detected by VMs=
-If you disconnected the USB device while it was attached to a VM, you will have to detach it and then re-attach it=
-Detaching Please wait=
-Attaching Please wait=
-No VM Selected=
-No USB devices=
+Hotplug USB=Conectare rapidă USB
+Running VMs=VM-uri care rulează
+Attach=Atașează
+Attach the USB device to the selected VM=Atașează dispozitivul USB la VM-ul selectat
+Detach=Detașează
+Refresh this page=Reîmprospătează această pagină
+Detach the USB device from the selected VM=Detașează dispozitivul USB de la VM-ul selectat
+Result=Rezultat
+Result of attachdetach operation=Rezultatul operațiunii atașare/detașare
+Note=Notă
+Some USB Devices require detaching and attaching multiple times to be properly detected by VMs=Unele dispozitive USB necesită detașare și atașare de mai multe ori pentru a fi detectate corect de VM-uri
+If you disconnected the USB device while it was attached to a VM, you will have to detach it and then re-attach it=Dacă ați deconectat dispozitivul USB în timp ce era atașat la un VM, va trebui să-l detașați și apoi să-l reatașați
+Detaching Please wait=Se detașează Vă rugăm așteptați
+Attaching Please wait=Se atașează Vă rugăm așteptați
+No VM Selected=Niciun VM selectat
+No USB devices=Niciun dispozitiv USB

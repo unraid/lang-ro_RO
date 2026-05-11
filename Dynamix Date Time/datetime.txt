@@ -34,10 +34,10 @@
 :end
 
 ; Note: April 21, 2025 - 7 missing translations
-Current date and time=
-Hide map=
-New date and time=
-NTP server=
-Show map=
-Time zone=
-Use NTP=
+Current date and time=Data și ora curentă
+Hide map=Ascunde hartă
+New date and time=Dată și oră nouă
+NTP server=Server NTP
+Show map=Arată hartă
+Time zone=Fus orar
+Use NTP=Utilizează NTP

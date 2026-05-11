@@ -10,24 +10,24 @@
 :end
 
 ; Note: April 21, 2025 - 21 missing translations
-Automatic theming=
-Bing API key=
-Bing=
-City name=
-Country name=
-Day theme=
-Geocoding service=
-Google API key=
-Google=
-MapQuest API key=
-MapQuest=
-Night theme=
-No geographical coordinates found for the given address=
-Please adjust=
-Postal code=
-See=
-Street address=
-this site=
-to obtain a Bing API key=
-to obtain a Google API key=
-to obtain a MapQuest API key=
+Automatic theming=Tematizare automată
+Bing API key=Cheie API Bing
+Bing=Bing
+City name=Nume oraș
+Country name=Nume țară
+Day theme=Temă de zi
+Geocoding service=Serviciu geocodare
+Google API key=Cheie API Google
+Google=Google
+MapQuest API key=Cheie API MapQuest
+MapQuest=MapQuest
+Night theme=Temă de noapte
+No geographical coordinates found for the given address=Nu s-au găsit coordonate geografice pentru adresa dată
+Please adjust=Vă rugăm să ajustați
+Postal code=Cod poștal
+See=Vezi
+Street address=Adresă stradă
+this site=acest site
+to obtain a Bing API key=pentru a obține o cheie API Bing
+to obtain a Google API key=pentru a obține o cheie API Google
+to obtain a MapQuest API key=pentru a obține o cheie API MapQuest

@@ -9,18 +9,18 @@
 :end
 
 ; Note: April 21, 2025 - 15 missing translations
-Enable Kill Button=
-Process=
-Kill Process=
-Kill this Process holding files open=
-Process ID=
-Open=
-May prevent shutdown=
-File Name and Path=
-An entry for bash means you have a terminal session open with the working directory on the array=
-If smbd is listed, it means that another computer has a samba share mounted=
-Files open by Samba usually wont prevent array shutdown=
-No open files=
-Kill=
-Command timed out=
-Cannot get list of open files=
+Enable Kill Button=Activează buton Omoară
+Process=Proces
+Kill Process=Omoară Proces
+Kill this Process holding files open=Omoară acest proces care ține fișiere deschise
+Process ID=ID Proces
+Open=Deschis
+May prevent shutdown=Poate preveni oprirea
+File Name and Path=Nume fișier și cale
+An entry for bash means you have a terminal session open with the working directory on the array=O intrare pentru bash înseamnă că aveți o sesiune terminal deschisă cu directorul de lucru pe array
+If smbd is listed, it means that another computer has a samba share mounted=Dacă smbd este listat, înseamnă că un alt computer are o partajare samba montată
+Files open by Samba usually wont prevent array shutdown=Fișierele deschise de Samba de obicei nu vor preveni oprirea array-ului
+No open files=Niciun fișier deschis
+Kill=Omoară
+Command timed out=Comanda a expirat
+Cannot get list of open files=Nu se poate obține lista fișierelor deschise
